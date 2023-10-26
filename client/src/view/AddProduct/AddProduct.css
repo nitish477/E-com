@@ -1,0 +1,32 @@
+.form-contanier{
+    width: 500px;
+    border: 2px solid rgb(141, 31, 243);
+    padding: 20px 10px ;
+    border-radius: 10px;
+    background-color: fff;
+    margin: 5rem auto;
+}
+.input-box{
+    font-size: 20px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+    margin: 20px auto;
+    display: block;
+    padding: 10px 10px;
+    outline: none;
+}
+.btn{
+    color: white;
+    background-color: rgb(76, 8, 243);
+    border: none;
+    padding: 15px 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+    width: 50%;
+    font-size: 20px;
+}
